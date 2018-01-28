@@ -1,9 +1,16 @@
+# KotlinLearning [part1]
+This project presents the first part of an [Android tutorials/samples series](http://www.amalhichri.net) I am currently sharing.
+It's also the first part of the [KotlinLearning Android app](http://www.amalhichri.net) recently published.
+
 ## Description
 
 KotlinLearning [part1] implements the following functionalities:
 
 * ### User registration management with Firebase
-user signup | user signin | password recovery | email verification | user session management
+    * user signup | user signin
+    * password recovery
+    * email verification
+    * user session management
 
 * ### Facebook SDK for Android integration
 Use of the Facebook sdK for Android to log user in through their facebook account.
@@ -27,4 +34,6 @@ Libraries used :
 
 UIs created:
 * Custom listViews
+    *  Sectionned listView
+    *  Expandable listView
 * Custom TabLayout
