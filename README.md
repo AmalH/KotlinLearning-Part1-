@@ -23,11 +23,11 @@ Easy and clear implementation of LinkedIn SDK for Android to ask for user's perm
 
 
 * #### A set of valuable user interface components / libraries usage
-asterisk Libraries used :
+Libraries used :
 -- [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)
 -- [Custom fonts](https://github.com/chrisjenx/Calligraphy)
 -- [CirclePageIndicator] (https://github.com/ongakuer/CircleIndicator)
 -- [CircularImageView] (https://github.com/hdodenhof/CircleImageView)
-asterisk  UIs created:
--- Custom listViews
+UIs created:
+-- Custom listViews  
 --
