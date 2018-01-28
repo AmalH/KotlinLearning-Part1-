@@ -1,7 +1,3 @@
-# KotlinLearning [part1]
-This project presents the first part of an [Android tutorials/samples series](http://www.amalhichri.net) I am currently sharing.
-It's also the first part of the [KotlinLearning Android app](http://www.amalhichri.net) recently published.
-
 ## Description
 
 KotlinLearning [part1] implements the following functionalities:
@@ -24,10 +20,11 @@ Easy and clear implementation of LinkedIn SDK for Android to ask for user's perm
 
 * ### A set of valuable user interface components / libraries usage
 Libraries used :
--- [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)
--- [Custom fonts](https://github.com/chrisjenx/Calligraphy)
--- [CirclePageIndicator](https://github.com/ongakuer/CircleIndicator)
--- [CircularImageView](https://github.com/hdodenhof/CircleImageView)
+* [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)
+* [Custom fonts](https://github.com/chrisjenx/Calligraphy)
+* [CirclePageIndicator](https://github.com/ongakuer/CircleIndicator)
+* [CircularImageView](https://github.com/hdodenhof/CircleImageView)
+
 UIs created:
--- Custom listViews  
---
+* Custom listViews
+* Custom TabLayout
