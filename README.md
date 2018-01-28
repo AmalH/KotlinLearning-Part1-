@@ -23,6 +23,7 @@ In following parts we'll be consuming user's shares, news feed and more.
 
 * ### Linkedin Mobile SDK for Android integration
 Easy and clear implementation of LinkedIn SDK for Android to ask for user's permission to retrieve their data and create/signin a firebase user with it.
+
 ![tabLayout](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/loginUI.png)
 
 * ### A set of valuable user interface components/libraries usage
