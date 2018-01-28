@@ -25,13 +25,23 @@ In following parts we'll be consuming user's shares, news feed and more.
 Easy and clear implementation of LinkedIn SDK for Android to ask for user's permission to retrieve their data and create/signin a firebase user with it.
 
 * ### A set of valuable user interface components/libraries usage
-    * [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)
-    * [Custom fonts](https://github.com/chrisjenx/Calligraphy)
-    * [CirclePageIndicator](https://github.com/ongakuer/CircleIndicator)
-    * [CircularImageView](https://github.com/hdodenhof/CircleImageView)
+Libraries uses
+* [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)
+* [Custom fonts](https://github.com/chrisjenx/Calligraphy)
+* [CirclePageIndicator](https://github.com/ongakuer/CircleIndicator)
+* [CircularImageView](https://github.com/hdodenhof/CircleImageView)
 
 UIs created:
 * Custom listViews
     *  Sectionned listView
     *  Expandable listView
 * Custom TabLayout
+
+## Getting started
+Clone this repository and import into Android Studio
+```javascript
+git clone https://github.com/AmalH/KotlinLearning-Part1-.git
+```### Pre-requisites
+* Android SDK 27
+* Android Build Tools v27.0.0
+* Android Support Repository

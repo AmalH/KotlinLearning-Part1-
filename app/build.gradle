@@ -40,7 +40,7 @@ dependencies {
     // circular page indicator on main activity
     compile 'me.relex:circleindicator:1.2.2@aar'
     // to set custom font
-    compile 'uk.co.chrisjenx:calligraphyuk.co.chrisjenx:calligraph:2.3.0'
+    compile 'uk.co.chrisjenx:calligraphy:2.3.0'
     // password visibiuk.co.chrisjenx:calligraphlity toggle
     compile 'com.github.scottyab:showhidepasswordedittext:0.8'
     // to set imageView's src with url
