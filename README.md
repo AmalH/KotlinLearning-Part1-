@@ -23,6 +23,7 @@ In following parts we'll be consuming user's shares, news feed and more.
 
 * ### Linkedin Mobile SDK for Android integration
 Easy and clear implementation of LinkedIn SDK for Android to ask for user's permission to retrieve their data and create/signin a firebase user with it.
+![tabLayout](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/loginUI.png)
 
 * ### A set of valuable user interface components/libraries usage
 Libraries uses
@@ -36,12 +37,14 @@ UIs created:
     *  Sectionned listView
     *  Expandable listView
 * Custom TabLayout
+![tabLayout](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/tabLayout.gif)
 
 ## Getting started
 Clone this repository and import into Android Studio
 ```javascript
 git clone https://github.com/AmalH/KotlinLearning-Part1-.git
-```### Pre-requisites
-* Android SDK 27
+```
+### Pre-requisites
+* Android SDK 26
 * Android Build Tools v27.0.0
 * Android Support Repository
