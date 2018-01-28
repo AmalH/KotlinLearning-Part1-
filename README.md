@@ -6,11 +6,11 @@ It's also the first part of the [KotlinLearning Android app](http://www.amalhich
 
 KotlinLearning [part1] implements the following functionalities:
 
-* ### User registration management with [Firebase](https://firebase.google.com)
+* ### User registration management with Firebase
 user signup | user signin | password recovery | email verification | user session management
 
 * ### Facebook SDK for Android integration
-Use of the [Facebook sdK for Android to log user in](https://developers.facebook.com/docs/facebook-login/android) through their facebook account.
+Use of the Facebook sdK for Android to log user in through their facebook account.
 User registration or signin through Firebase after getting user permission to get their data.
 
 
@@ -23,5 +23,11 @@ Easy and clear implementation of LinkedIn SDK for Android to ask for user's perm
 
 
 * #### A set of valuable user interface components / libraries usage
--- [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)  
+asterisk Libraries used :
+-- [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)
 -- [Custom fonts](https://github.com/chrisjenx/Calligraphy)
+-- [CirclePageIndicator] (https://github.com/ongakuer/CircleIndicator)
+-- [CircularImageView] (https://github.com/hdodenhof/CircleImageView)
+asterisk  UIs created:
+-- Custom listViews
+--
