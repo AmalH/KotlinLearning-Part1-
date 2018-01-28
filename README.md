@@ -36,8 +36,6 @@ UIs created:
 * Custom listViews
     *  Sectionned listView
 
-![sectionnedListView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/sectionnedListView.png)
-
 
 Libraries usage
 * Material text fields and other ui components using [Material library](https://github.com/rey5137/Material/wiki/Text-Field)
