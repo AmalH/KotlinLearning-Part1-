@@ -14,14 +14,14 @@ Use of the [Facebook sdK for Android to log user in](https://developers.facebook
 User registration or signin through Firebase after getting user permission to get their data.
 
 
-* ### [Facebook Graph API](https://developers.facebook.com/docs/graph-api) integration/manipulation
+* ### Facebook Graph API integration/manipulation
 Use of the Graph API to get user's profile picture and basic data for the moment.
 In following parts we'll be consuming user's shares, news feed and more.
 
-* ### [Linkedin Mobile SDK for Android](https://developer.linkedin.com/docs/android-sdk) integration
-easy and clear implementation of LinkedIn SDK for Android to ask for user's permission to retrieve their data and create/signin a firebase user with it.
+* ### Linkedin Mobile SDK for Android integration
+Easy and clear implementation of LinkedIn SDK for Android to ask for user's permission to retrieve their data and create/signin a firebase user with it.
 
 
 * #### A set of valuable user interface components / libraries usage
--- [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)
+-- [Material text fields](https://github.com/rey5137/Material/wiki/Text-Field)  
 -- [Custom fonts](https://github.com/chrisjenx/Calligraphy)
