@@ -28,15 +28,6 @@ In following parts we'll be consuming user's shares, news feed and more.
 ![loginUi](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/loginUI.png)
 
 * ### A set of valuable user interface components/libraries usage
-UIs created:
-* Custom TabLayout
-
-![tabLayout](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/tabLayout.gif)
-
-* Custom listViews
-    *  Sectionned listView
-
-![sectionnedListView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/sectionnedListView.png)
 
 Libraries usage
 * Material text fields and other ui components using [Material library](https://github.com/rey5137/Material/wiki/Text-Field)
@@ -49,6 +40,15 @@ Libraries usage
 
 ![circularImageView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/circularImageView.png)
 
+UIs created:
+* Custom TabLayout
+
+![tabLayout](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/tabLayout.gif)
+
+* Custom listViews
+    *  Sectionned listView
+
+![sectionnedListView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/sectionnedListView.png)
 
 ## Getting started
 Clone this repository and import into Android Studio
