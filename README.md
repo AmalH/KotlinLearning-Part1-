@@ -2,6 +2,8 @@
 This project presents the first part of an [Android tutorials/samples series](http://www.amalhichri.net) I am currently sharing.
 It's also the first part of the [KotlinLearning Android app](http://www.amalhichri.net) recently published.
 
+## KotlinLearning [part1]
+
 It implements the following functionalities:
 
 #### User registration management with [Firebase](https://firebase.google.com)
