@@ -36,7 +36,7 @@ UIs created:
 * Custom listViews
     *  Sectionned listView
 
-![sectionnedListView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/sectionnedListView)
+![sectionnedListView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/sectionnedListView.png)
 
 
 Libraries usage
@@ -48,7 +48,7 @@ Libraries usage
 
 * CircularImageView in user profile from [CircleImageView library](https://github.com/hdodenhof/CircleImageView)
 
-![circularImageView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/loginUI.png)
+![circularImageView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/circularImageView.png)
 
 
 ## Getting started
