@@ -56,6 +56,6 @@ Clone this repository and import into Android Studio
 git clone https://github.com/AmalH/KotlinLearning-Part1-.git
 ```
 ### Pre-requisites
-* Android SDK 26
+* Android SDK 27
 * Android Build Tools v27.0.0
 * Android Support Repository
