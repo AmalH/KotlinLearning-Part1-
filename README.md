@@ -1,6 +1,6 @@
 # KotlinLearning [part1]
-This project presents the first part of an [Android tutorials/samples series](http://www.amalhichri.net) I am currently sharing.
-It's also the first part of the [KotlinLearning Android app](http://www.amalhichri.net) recently published.
+This project presents the first part of an [Android tutorials/samples series](http://pragmatictheories.tech) I am currently sharing.
+It's also the first part of the [KotlinLearning Android app](http://pragmatictheories.tech) recently published.
 
 ## Description
 
