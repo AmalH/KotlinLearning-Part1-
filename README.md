@@ -15,7 +15,9 @@ KotlinLearning [part1] implements the following functionalities:
 * ### Linkedin Mobile SDK for Android integration
 Easy and clear implementation of LinkedIn SDK for Android to ask for user's permission to retrieve their data and create/signin a firebase user with it.
 
-![linkedInLogin](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/linkedInRegistration.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/linkedInRegistration.png"/>
+</p>
 
 * ### Facebook SDK for Android integration
 Use of the Facebook sdK for Android to log user in through their facebook account.
@@ -25,7 +27,9 @@ User registration or signin through Firebase after getting user permission to ge
 Use of the Graph API to get user's profile picture and basic data for the moment.
 In following parts we'll be consuming user's shares, news feed and more.
 
-![loginUi](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/loginUI.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/loginUI.png"/>
+</p>
 
 * ### A set of valuable user interface components/libraries usage
 
