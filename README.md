@@ -38,21 +38,28 @@ Libraries usage
 * Custom fonts using [Calligraphy library](https://github.com/chrisjenx/Calligraphy)
 * CirclePageIndicator usage from [CircleIndicator library](https://github.com/ongakuer/CircleIndicator)
 
-![circularIndicator](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/circularPageIndicator.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/circularPageIndicator.gif"/>
+</p>
 
 * CircularImageView in user profile from [CircleImageView library](https://github.com/hdodenhof/CircleImageView)
 
-![circularImageView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/circularImageView.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/circularImageView.png"/>
+</p>
 
 UIs created:
 * Custom TabLayout
 
-![tabLayout](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/tabLayout.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/tabLayout.gif"/>
+</p>
 
 * Custom listViews
     *  Sectionned listView
-
-![sectionnedListView](https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/sectionnedListView.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmalH/KotlinLearning-Part1-/master/screenshots/sectionnedListView.png"/>
+</p>
 
 ## Getting started
 Clone this repository and import into Android Studio
